@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sivamani!
+🚀 Passionate about Machine Learning, Deep Learning, and AI.  
 
-<!--
-**sivamani-k/sivamani-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://your-banner-image-url.com/banner.png)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **ML Projects**
+- 🌱 I’m learning **Deep Learning & NLP**
+- 💬 Ask me about **Python, AI, ML, Computer Vision**
+- 📫 Reach me at [email@example.com](mailto:email@example.com)
+- 🌐 Visit my portfolio: [Your Website](https://yourwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Machine Learning:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivamani-k&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivamani-k&layout=compact&theme=dark)  
+
+---
+
+## 📌 Pinned Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sivamani-k&repo=ml_projects&theme=dark)](https://github.com/sivamani-k/ml_projects)
+
+---
+
+### **📫 Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
